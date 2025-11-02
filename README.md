@@ -11,15 +11,15 @@
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
 
-  Excluded Towers (work normally):
+Excluded Towers (work normally):
 
-  - ✅ Mortar
-  - ✅ Spike Factory
-  - ✅ Alchemist
-  - ✅ Banana Farm
+- ✅ Mortar
+- ✅ Spike Factory
+- ✅ Alchemist
+- ✅ Banana Farm
 
-  All other towers work as intended. To try :
-  -Tackshooter-500 with bloons on screen
-  -All rifled based monkeys (Sniper, Desperado etc...)
+All other towers work as intended. To try :
+- Tackshooter-500 with bloons on screen
+- All rifled based monkeys (Sniper, Desperado etc...)
 
-  Have fun !
+Have fun !
