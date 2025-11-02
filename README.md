@@ -11,6 +11,10 @@
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
 
+Features :
+- ✅ Dartling Mode  Toggle Key
+- ✅ Dartling Fire/ Rate Toggle key
+
 Excluded Towers (work normally):
 
 - ✅ Mortar
