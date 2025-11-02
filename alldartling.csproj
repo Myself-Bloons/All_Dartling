@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>AllDartling</RootNamespace>
+        <AssemblyName>AllDartling</AssemblyName>
+        <Nullable>enable</Nullable>
+        <LangVersion>latest</LangVersion>
+        <Configurations>Debug;Release</Configurations>
+        <Optimize>false</Optimize>
+        <DebugType>embedded</DebugType>
+    </PropertyGroup>
+
+    <Import Project="btd6.targets" Condition="Exists('btd6.targets')" />
+    <Import Project="C:\Dev\btd6.targets" Condition="!Exists('btd6.targets') AND Exists('C:\Dev\btd6.targets')" />
+</Project>

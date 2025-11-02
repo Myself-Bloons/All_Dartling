@@ -1,0 +1,14 @@
+global using MelonLoader;
+global using BTD_Mod_Helper;
+global using BTD_Mod_Helper.Api.ModOptions;
+global using BTD_Mod_Helper.Extensions;
+global using UnityEngine;
+global using Il2CppAssets.Scripts.Models;
+global using Il2CppAssets.Scripts.Models.Towers;
+global using Il2CppAssets.Scripts.Models.Towers.Behaviors.Attack;
+global using Il2CppAssets.Scripts.Models.Towers.Behaviors.Attack.Behaviors;
+global using Il2CppAssets.Scripts.Models.Towers.Projectiles.Behaviors;
+global using Il2CppAssets.Scripts.Simulation.Towers;
+global using Il2CppAssets.Scripts.Simulation.Objects;
+global using Il2CppAssets.Scripts.Unity;
+global using Il2CppAssets.Scripts.Unity.UI_New.InGame;
